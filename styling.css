@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.aboutweb{
+    position: relative;
+    top: 60px;
+    left: 445px;
+    color: rgb(4, 0, 80);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.webtitle{
+    position: relative;
+    top: 30px;
+    left: 500px;
+    color: rgb(4, 0, 80);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.buildingapc{
+    position: relative;
+    top: 180px;
+    left: 360px;
+    color: rgb(4, 0, 80);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#joe1{
+    position: relative;
+    top: 190px;
+    left:350px;
+    border-radius: 2.5%;
+}
+.buildingapc2{
+    position: relative;
+    top: -2px;
+    left: 58%;
+    color: rgb(4, 0, 80);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#joe2{
+    position: relative;
+    top: 1px;
+    left: 920px;
+    border-radius: 2.5%;
+}
+body {
+    background-color: rgb(223, 239, 255);
+}
+.clickh{
+    position: relative;
+    font-size: 24px;
+    top: 130px;
+    left: 250px;
+    color: rgb(4, 0, 80);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.weblink{
+    position: relative;
+    font-size: 24px;
+    top:205px;
+    left: 30%;
+    color: rgb(4, 0, 80);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.buildingapc3{
+    position: relative;
+    top: -350px;
+    left: 10px;
+    color: rgb(4, 0, 80);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#joe3{
+    position: relative;
+    top: -440px;
+    left: 25px;
+    border-radius: 2%;
+}
